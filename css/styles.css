@@ -108,7 +108,7 @@ ol {
 
     font-family: var(--primary-font-family);
     font-weight: 700;
-    font-size: 42px;
+    font-size: 36px;
     line-height: 1.17;
     letter-spacing: 0.05em;
     text-align: center;
@@ -174,7 +174,7 @@ text-decoration: none;
     color: var(--accent-color);
 }
 
-.menu-link-current::after {
+/* .menu-link-current::after {
     content: '';
 
     display: block;
@@ -183,7 +183,7 @@ text-decoration: none;
 
     border-radius: 2px;
     background-color: var(--accent-color);
-}
+} */
 
 .contacts-list {
     display: flex;
